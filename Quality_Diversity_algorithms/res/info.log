@@ -1,0 +1,542 @@
+## Generation 0 
+{'pos_end_effector': array([1.82872442, 1.44996416]), 'dist_end_effector': -4.0940843650671415, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.53782506,  1.79203929]), 'dist_end_effector': -2.3128684304797167, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([3.51164404, 2.28274715]), 'dist_end_effector': -5.9656646428806, 'collision': False}
+{'pos_end_effector': array([-0.37792181,  5.01533666]), 'dist_end_effector': -5.2711231695927685, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.00731166,  2.28920894]), 'dist_end_effector': -3.0350097854400095, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.63435785,  2.90906746]), 'dist_end_effector': -3.213666431508043, 'collision': False}
+{'pos_end_effector': array([0.24259709, 0.79038811]), 'dist_end_effector': -2.3778046766498946, 'collision': False}
+{'pos_end_effector': array([ 1.39191904, -3.55463465]), 'dist_end_effector': -4.913302581861505, 'collision': False}
+{'pos_end_effector': array([-0.23288757, -6.73718014]), 'dist_end_effector': -6.965075920696616, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([ 2.65930916, -1.65882907]), 'dist_end_effector': -4.945793744389027, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-1.53995787,  2.73751603]), 'dist_end_effector': -2.77590215089866, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([0.49973113, 1.87259514]), 'dist_end_effector': -3.1233424843649282, 'collision': False}
+{'pos_end_effector': array([ 1.94461306, -1.28579569]), 'dist_end_effector': -4.148884522202766, 'collision': False}
+{'pos_end_effector': array([-1.79846293, -4.83342597]), 'dist_end_effector': -4.837625839688185, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([0.91716817, 3.10323655]), 'dist_end_effector': -4.259101687939888, 'collision': False}
+{'pos_end_effector': array([-0.20222759, -0.58313166]), 'dist_end_effector': -1.8899809946872306, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([3.12556821, 1.40180962]), 'dist_end_effector': -5.313804636408362, 'collision': False}
+{'pos_end_effector': array([-0.54818573, -4.04640194]), 'dist_end_effector': -4.298968865596262, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-1.58164598,  1.96409712]), 'dist_end_effector': -2.008157762247587, 'collision': False}
+{'pos_end_effector': array([0.07306222, 1.00652639]), 'dist_end_effector': -2.3044917774284257, 'collision': False}
+{'pos_end_effector': array([ 2.04826965, -2.60911519]), 'dist_end_effector': -4.816219393556728, 'collision': False}
+{'pos_end_effector': array([ 1.481041  , -1.08961136]), 'dist_end_effector': -3.647588159819608, 'collision': False}
+{'pos_end_effector': array([-5.20335725,  2.32690571]), 'dist_end_effector': -3.9592913335354467, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-2.56743755,  1.14474841]), 'dist_end_effector': -1.2776675194080733, 'collision': False}
+{'pos_end_effector': array([1.95798555, 2.59834341]), 'dist_end_effector': -4.734663465643614, 'collision': False}
+{'pos_end_effector': array([ 2.27210398, -3.28070179]), 'dist_end_effector': -5.386453067912468, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([ 3.23824761, -2.36621077]), 'dist_end_effector': -5.747885823666606, 'collision': False}
+{'pos_end_effector': array([-0.37702483, -3.21781465]), 'dist_end_effector': -3.6039394450088493, 'collision': False}
+{'pos_end_effector': array([ 4.95065139, -3.07436012]), 'dist_end_effector': -7.600213478475924, 'collision': False}
+{'pos_end_effector': array([-1.14170305, -1.6423052 ]), 'dist_end_effector': -1.8530623397359838, 'collision': False}
+{'pos_end_effector': array([ 1.59426822, -0.40435002]), 'dist_end_effector': -3.616941110379803, 'collision': False}
+{'pos_end_effector': array([3.45805281, 0.10348077]), 'dist_end_effector': -5.45903367817321, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.98061224,  1.23179722]), 'dist_end_effector': -1.5988983068523246, 'collision': False}
+{'pos_end_effector': array([-0.83857783,  3.07001844]), 'dist_end_effector': -3.2823641905172707, 'collision': False}
+{'pos_end_effector': array([ 0.57713015, -0.09587689]), 'dist_end_effector': -2.578912984359958, 'collision': False}
+{'pos_end_effector': array([3.16952457, 2.70447604]), 'dist_end_effector': -5.834224445002416, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([3.5778242 , 1.58763304]), 'dist_end_effector': -5.799370778327037, 'collision': False}
+{'pos_end_effector': array([3.43800358, 0.62919904]), 'dist_end_effector': -5.474283000206268, 'collision': False}
+{'pos_end_effector': array([-1.57657644,  1.26573915]), 'dist_end_effector': -1.3346846460761057, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.92587061,  2.39806943]), 'dist_end_effector': -2.627639799333319, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([1.84424714, 1.16653145]), 'dist_end_effector': -4.017341368628282, 'collision': False}
+{'pos_end_effector': array([1.84911829, 2.69368128]), 'dist_end_effector': -4.69804538085177, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.61663466, -1.37674685]), 'dist_end_effector': -1.9516996606867223, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.36808492, -0.37287999]), 'dist_end_effector': -1.6739732122163724, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([0.3334699 , 0.17948099]), 'dist_end_effector': -2.340362194239935, 'collision': False}
+{'pos_end_effector': array([0.83358079, 1.47527039]), 'dist_end_effector': -3.1946209202163725, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.83165189,  2.17533184]), 'dist_end_effector': -2.469231846060794, 'collision': False}
+{'pos_end_effector': array([ 2.06651247, -3.56949038]), 'dist_end_effector': -5.410895051240336, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([2.11707508, 0.18309606]), 'dist_end_effector': -4.121144426879701, 'collision': False}
+{'pos_end_effector': array([-0.75660647,  3.54852448]), 'dist_end_effector': -3.7600602968239962, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-1.90353862, -3.26250994]), 'dist_end_effector': -3.263935645330886, 'collision': False}
+{'pos_end_effector': array([-0.01065187,  0.5618602 ]), 'dist_end_effector': -2.0671702521681783, 'collision': False}
+{'pos_end_effector': array([ 5.91245894, -2.50049707]), 'dist_end_effector': -8.29816196805576, 'collision': False}
+{'pos_end_effector': array([ 2.42186431, -1.52996818]), 'dist_end_effector': -4.679068987650223, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.79963826, -0.91317582]), 'dist_end_effector': -1.50823022195387, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([1.15316661, 1.18601692]), 'dist_end_effector': -3.3688419127265212, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([ 1.00489711, -0.70944915]), 'dist_end_effector': -3.087511087664897, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+## Generation 1 
+{'pos_end_effector': array([ 1.94461306, -1.28579569]), 'dist_end_effector': -4.148884522202766, 'collision': False}
+{'pos_end_effector': array([0.95677367, 2.59028967]), 'dist_end_effector': -3.9309173364672554, 'collision': False}
+{'pos_end_effector': array([-1.02953788,  1.23130437]), 'dist_end_effector': -1.567771408096974, 'collision': False}
+{'pos_end_effector': array([ 0.55712184, -1.16816023]), 'dist_end_effector': -2.8113111617951003, 'collision': False}
+{'pos_end_effector': array([3.5778242 , 1.58763304]), 'dist_end_effector': -5.799370778327037, 'collision': False}
+{'pos_end_effector': array([-0.53782506,  1.79203929]), 'dist_end_effector': -2.3128684304797167, 'collision': False}
+{'pos_end_effector': array([-0.23288757, -6.73718014]), 'dist_end_effector': -6.965075920696616, 'collision': False}
+{'pos_end_effector': array([-0.37702483, -3.21781465]), 'dist_end_effector': -3.6039394450088493, 'collision': False}
+{'pos_end_effector': array([-2.56743755,  1.14474841]), 'dist_end_effector': -1.2776675194080733, 'collision': False}
+{'pos_end_effector': array([-0.18917997,  2.25610944]), 'dist_end_effector': -2.8929395040535923, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.75660647,  3.54852448]), 'dist_end_effector': -3.7600602968239962, 'collision': False}
+{'pos_end_effector': array([1.82872442, 1.44996416]), 'dist_end_effector': -4.0940843650671415, 'collision': False}
+{'pos_end_effector': array([0.83358079, 1.47527039]), 'dist_end_effector': -3.1946209202163725, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-2.26256835,  5.57895391]), 'dist_end_effector': -5.585129258407049, 'collision': False}
+{'pos_end_effector': array([-0.38997581, -3.21471024]), 'dist_end_effector': -3.5953497500026996, 'collision': False}
+{'pos_end_effector': array([-1.29333848,  2.30254386]), 'dist_end_effector': -2.4085428638130884, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([ 1.40573086, -0.70117214]), 'dist_end_effector': -3.477160484381328, 'collision': False}
+{'pos_end_effector': array([ 0.95312531, -0.91303588]), 'dist_end_effector': -3.0910489514593884, 'collision': False}
+{'pos_end_effector': array([ 5.18270554, -4.62683366]), 'dist_end_effector': -8.543936359794616, 'collision': False}
+{'pos_end_effector': array([-5.20335725,  2.32690571]), 'dist_end_effector': -3.9592913335354467, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([0.11770699, 4.82770686]), 'dist_end_effector': -5.271758382079403, 'collision': False}
+{'pos_end_effector': array([-1.67892528, -1.20415659]), 'dist_end_effector': -1.2462271344285716, 'collision': False}
+{'pos_end_effector': array([0.83358079, 1.47527039]), 'dist_end_effector': -3.1946209202163725, 'collision': False}
+{'pos_end_effector': array([3.5778242 , 1.58763304]), 'dist_end_effector': -5.799370778327037, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([3.22221759, 1.39709502]), 'dist_end_effector': -5.405870057043045, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.45891502, -0.21157833]), 'dist_end_effector': -1.555541159954462, 'collision': False}
+{'pos_end_effector': array([-2.36334404,  2.85559057]), 'dist_end_effector': -2.87861362537898, 'collision': False}
+{'pos_end_effector': array([ 4.95065139, -3.07436012]), 'dist_end_effector': -7.600213478475924, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.0461649 ,  2.29849789]), 'dist_end_effector': -3.0167141349140616, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([5.48191081, 3.34502258]), 'dist_end_effector': -8.195618678359306, 'collision': False}
+{'pos_end_effector': array([-0.53926656, -0.30588071]), 'dist_end_effector': -1.4924158863143993, 'collision': False}
+{'pos_end_effector': array([2.43883223, 0.45402471]), 'dist_end_effector': -4.461991711110447, 'collision': False}
+{'pos_end_effector': array([0.26866874, 0.79408512]), 'dist_end_effector': -2.403628308717578, 'collision': False}
+{'pos_end_effector': array([-0.94050953,  2.42483383]), 'dist_end_effector': -2.6461933347569504, 'collision': False}
+{'pos_end_effector': array([-0.83857783,  3.07001844]), 'dist_end_effector': -3.2823641905172707, 'collision': False}
+{'pos_end_effector': array([ 1.59426822, -0.40435002]), 'dist_end_effector': -3.616941110379803, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([ 4.34622847, -6.17594933]), 'dist_end_effector': -8.855335447513307, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.01065187,  0.5618602 ]), 'dist_end_effector': -2.0671702521681783, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([5.46431113, 5.36094437]), 'dist_end_effector': -9.189976341538362, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([0.91716817, 3.10323655]), 'dist_end_effector': -4.259101687939888, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([0.86103483, 0.28520022]), 'dist_end_effector': -2.8752146858283174, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([ 1.60861294, -1.4510232 ]), 'dist_end_effector': -3.88941585370671, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([ 5.91245894, -2.50049707]), 'dist_end_effector': -8.29816196805576, 'collision': False}
+{'pos_end_effector': array([-0.61663466, -1.37674685]), 'dist_end_effector': -1.9516996606867223, 'collision': False}
+{'pos_end_effector': array([1.66291279, 3.24370568]), 'dist_end_effector': -4.892704431210804, 'collision': False}
+{'pos_end_effector': array([ 2.93137574, -2.75862117]), 'dist_end_effector': -5.650527178306132, 'collision': False}
+{'pos_end_effector': array([-1.71488985,  1.23739982]), 'dist_end_effector': -1.2698212945813103, 'collision': False}
+{'pos_end_effector': array([2.47216333, 3.63414544]), 'dist_end_effector': -5.762573892954979, 'collision': False}
+{'pos_end_effector': array([-0.02934557,  2.42604622]), 'dist_end_effector': -3.1255686145669075, 'collision': False}
+{'pos_end_effector': array([-0.37702483, -3.21781465]), 'dist_end_effector': -3.6039394450088493, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([ 2.05987924, -1.89123889]), 'dist_end_effector': -4.478772596686073, 'collision': False}
+{'pos_end_effector': array([2.11707508, 0.18309606]), 'dist_end_effector': -4.121144426879701, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.61663466, -1.37674685]), 'dist_end_effector': -1.9516996606867223, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([3.12556821, 1.40180962]), 'dist_end_effector': -5.313804636408362, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.37702483, -3.21781465]), 'dist_end_effector': -3.6039394450088493, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([ 0.57713015, -0.09587689]), 'dist_end_effector': -2.578912984359958, 'collision': False}
+{'pos_end_effector': array([5.69916006, 1.78757343]), 'dist_end_effector': -7.903953723321302, 'collision': False}
+{'pos_end_effector': array([1.71221117, 3.35524582]), 'dist_end_effector': -5.003817166231884, 'collision': False}
+{'pos_end_effector': array([ 1.59426822, -0.40435002]), 'dist_end_effector': -3.616941110379803, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([ 2.04826965, -2.60911519]), 'dist_end_effector': -4.816219393556728, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([3.5621314 , 2.68787205]), 'dist_end_effector': -6.177536877030106, 'collision': False}
+{'pos_end_effector': array([-0.98061224,  1.23179722]), 'dist_end_effector': -1.5988983068523246, 'collision': False}
+{'pos_end_effector': array([-0.12046354,  0.65852551]), 'dist_end_effector': -1.9915604794874553, 'collision': False}
+{'pos_end_effector': array([3.0425951 , 1.46422749]), 'dist_end_effector': -5.250878731044803, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.22275957, -2.10051427]), 'dist_end_effector': -2.7514984541788046, 'collision': False}
+{'pos_end_effector': array([0.91716817, 3.10323655]), 'dist_end_effector': -4.259101687939888, 'collision': False}
+{'pos_end_effector': array([1.82872442, 1.44996416]), 'dist_end_effector': -4.0940843650671415, 'collision': False}
+{'pos_end_effector': array([ 4.95065139, -3.07436012]), 'dist_end_effector': -7.600213478475924, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-1.14170305, -1.6423052 ]), 'dist_end_effector': -1.8530623397359838, 'collision': False}
+{'pos_end_effector': array([-0.79963826, -0.91317582]), 'dist_end_effector': -1.50823022195387, 'collision': False}
+{'pos_end_effector': array([0.24259709, 0.79038811]), 'dist_end_effector': -2.3778046766498946, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.75660647,  3.54852448]), 'dist_end_effector': -3.7600602968239962, 'collision': False}
+{'pos_end_effector': array([-1.73086802,  1.7222169 ]), 'dist_end_effector': -1.7431187731239715, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([1.82872442, 1.44996416]), 'dist_end_effector': -4.0940843650671415, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([ 4.95065139, -3.07436012]), 'dist_end_effector': -7.600213478475924, 'collision': False}
+{'pos_end_effector': array([ 1.59426822, -0.40435002]), 'dist_end_effector': -3.616941110379803, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([ 2.06651247, -3.56949038]), 'dist_end_effector': -5.410895051240336, 'collision': False}
+{'pos_end_effector': array([2.84751526, 1.79739845]), 'dist_end_effector': -5.1700140604706135, 'collision': False}
+{'pos_end_effector': array([-2.41223667,  3.21153351]), 'dist_end_effector': -3.237883031859677, 'collision': False}
+{'pos_end_effector': array([-0.63435785,  2.90906746]), 'dist_end_effector': -3.213666431508043, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([4.16240111, 0.8456811 ]), 'dist_end_effector': -6.220157871259492, 'collision': False}
+{'pos_end_effector': array([ 1.00489711, -0.70944915]), 'dist_end_effector': -3.087511087664897, 'collision': False}
+{'pos_end_effector': array([-0.37792181,  5.01533666]), 'dist_end_effector': -5.2711231695927685, 'collision': False}
+{'pos_end_effector': array([2.11707508, 0.18309606]), 'dist_end_effector': -4.121144426879701, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([3.40190325, 2.45697535]), 'dist_end_effector': -5.9344154436616945, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([1.82872442, 1.44996416]), 'dist_end_effector': -4.0940843650671415, 'collision': False}
+{'pos_end_effector': array([2.65810745, 0.98360458]), 'dist_end_effector': -4.7608237680426, 'collision': False}
+{'pos_end_effector': array([1.82872442, 1.44996416]), 'dist_end_effector': -4.0940843650671415, 'collision': False}
+{'pos_end_effector': array([-5.20335725,  2.32690571]), 'dist_end_effector': -3.9592913335354467, 'collision': False}
+{'pos_end_effector': array([-5.20335725,  2.32690571]), 'dist_end_effector': -3.9592913335354467, 'collision': False}
+{'pos_end_effector': array([-1.53995787,  2.73751603]), 'dist_end_effector': -2.77590215089866, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([ 1.25361909, -3.20479472]), 'dist_end_effector': -4.566918700687171, 'collision': False}
+{'pos_end_effector': array([-0.77336269,  2.71199336]), 'dist_end_effector': -2.9764991300680226, 'collision': False}
+{'pos_end_effector': array([ 1.85413564, -2.2557076 ]), 'dist_end_effector': -4.465711403476512, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([1.5645566, 0.3976741]), 'dist_end_effector': -3.5866709381919955, 'collision': False}
+{'pos_end_effector': array([-0.51651855,  3.59133511]), 'dist_end_effector': -3.8856666255998062, 'collision': False}
+{'pos_end_effector': array([1.84911829, 2.69368128]), 'dist_end_effector': -4.69804538085177, 'collision': False}
+{'pos_end_effector': array([0.55721436, 1.90762302]), 'dist_end_effector': -3.1903559171577296, 'collision': False}
+{'pos_end_effector': array([ 4.95065139, -3.07436012]), 'dist_end_effector': -7.600213478475924, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([ 0.05869759, -1.36388188]), 'dist_end_effector': -2.4694958049101747, 'collision': False}
+{'pos_end_effector': array([0.91716817, 3.10323655]), 'dist_end_effector': -4.259101687939888, 'collision': False}
+{'pos_end_effector': array([ 2.42410324, -1.83248892]), 'dist_end_effector': -4.78860158652711, 'collision': False}
+{'pos_end_effector': array([-2.34797917,  2.97344095]), 'dist_end_effector': -2.993733550286968, 'collision': False}
+{'pos_end_effector': array([-0.98061224,  1.23179722]), 'dist_end_effector': -1.5988983068523246, 'collision': False}
+{'pos_end_effector': array([ 4.95065139, -3.07436012]), 'dist_end_effector': -7.600213478475924, 'collision': False}
+{'pos_end_effector': array([ 2.97061069, -2.43457774]), 'dist_end_effector': -5.534811597736069, 'collision': False}
+{'pos_end_effector': array([0.43067012, 0.79803288]), 'dist_end_effector': -2.558322440504243, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.70987965, -1.36896923]), 'dist_end_effector': -1.881086724110108, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([ 2.27210398, -3.28070179]), 'dist_end_effector': -5.386453067912468, 'collision': False}
+{'pos_end_effector': array([ 1.19935279, -3.52091053]), 'dist_end_effector': -4.757380504842433, 'collision': False}
+{'pos_end_effector': array([-1.31149928,  3.07255032]), 'dist_end_effector': -3.1487455772967894, 'collision': False}
+{'pos_end_effector': array([-3.08523988, -3.12966445]), 'dist_end_effector': -3.312483236262599, 'collision': False}
+{'pos_end_effector': array([ 0.97998257, -4.04785261]), 'dist_end_effector': -5.0264706163968, 'collision': False}
+{'pos_end_effector': array([ 1.15069241, -0.33905453]), 'dist_end_effector': -3.168883187745463, 'collision': False}
+{'pos_end_effector': array([-2.30228713, -2.73169427]), 'dist_end_effector': -2.748368811048132, 'collision': False}
+{'pos_end_effector': array([ 2.07472317, -1.84832813]), 'dist_end_effector': -4.474336353534092, 'collision': False}
+{'pos_end_effector': array([5.00716935, 0.72765393]), 'dist_end_effector': -7.044849358937462, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.61663466, -1.37674685]), 'dist_end_effector': -1.9516996606867223, 'collision': False}
+{'pos_end_effector': array([-5.36922546,  1.48273591]), 'dist_end_effector': -3.6810577249252368, 'collision': False}
+{'pos_end_effector': array([-1.58164598,  1.96409712]), 'dist_end_effector': -2.008157762247587, 'collision': False}
+{'pos_end_effector': array([-0.37792181,  5.01533666]), 'dist_end_effector': -5.2711231695927685, 'collision': False}
+{'pos_end_effector': array([0.49973113, 1.87259514]), 'dist_end_effector': -3.1233424843649282, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([ 1.59426822, -0.40435002]), 'dist_end_effector': -3.616941110379803, 'collision': False}
+## Generation 2 
+{'pos_end_effector': array([ 2.44644674, -0.57408758]), 'dist_end_effector': -4.483354228960472, 'collision': False}
+{'pos_end_effector': array([-0.01065187,  0.5618602 ]), 'dist_end_effector': -2.0671702521681783, 'collision': False}
+{'pos_end_effector': array([ 6.15682445, -0.65110206]), 'dist_end_effector': -8.18276964315159, 'collision': False}
+{'pos_end_effector': array([-1.53995787,  2.73751603]), 'dist_end_effector': -2.77590215089866, 'collision': False}
+{'pos_end_effector': array([-0.36808492, -0.37287999]), 'dist_end_effector': -1.6739732122163724, 'collision': False}
+{'pos_end_effector': array([-0.0461649 ,  2.29849789]), 'dist_end_effector': -3.0167141349140616, 'collision': False}
+{'pos_end_effector': array([-5.36922546,  1.48273591]), 'dist_end_effector': -3.6810577249252368, 'collision': False}
+{'pos_end_effector': array([-5.20335725,  2.32690571]), 'dist_end_effector': -3.9592913335354467, 'collision': False}
+{'pos_end_effector': array([0.3334699 , 0.17948099]), 'dist_end_effector': -2.340362194239935, 'collision': False}
+{'pos_end_effector': array([-0.02934557,  2.42604622]), 'dist_end_effector': -3.1255686145669075, 'collision': False}
+{'pos_end_effector': array([-0.42786411, -3.40439862]), 'dist_end_effector': -3.7498721626659917, 'collision': False}
+{'pos_end_effector': array([-3.08523988, -3.12966445]), 'dist_end_effector': -3.312483236262599, 'collision': False}
+{'pos_end_effector': array([ 1.15069241, -0.33905453]), 'dist_end_effector': -3.168883187745463, 'collision': False}
+{'pos_end_effector': array([ 1.59426822, -0.40435002]), 'dist_end_effector': -3.616941110379803, 'collision': False}
+{'pos_end_effector': array([ 2.58978132, -2.72995786]), 'dist_end_effector': -5.34029610353299, 'collision': False}
+{'pos_end_effector': array([-1.31149928,  3.07255032]), 'dist_end_effector': -3.1487455772967894, 'collision': False}
+{'pos_end_effector': array([-0.48722168,  2.61369341]), 'dist_end_effector': -3.0199158060323765, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([0.83358079, 1.47527039]), 'dist_end_effector': -3.1946209202163725, 'collision': False}
+{'pos_end_effector': array([0.05761247, 2.39334686]), 'dist_end_effector': -3.156244333629975, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([1.15316661, 1.18601692]), 'dist_end_effector': -3.3688419127265212, 'collision': False}
+{'pos_end_effector': array([ 0.04660617, -0.89132189]), 'dist_end_effector': -2.2322749647372087, 'collision': False}
+{'pos_end_effector': array([1.87344105, 1.15966753]), 'dist_end_effector': -4.043312302983959, 'collision': False}
+{'pos_end_effector': array([-0.0451537 , -2.40998867]), 'dist_end_effector': -3.103138647241147, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-2.73228765,  3.8883247 ]), 'dist_end_effector': -3.95667969059418, 'collision': False}
+{'pos_end_effector': array([-1.14132655,  2.99266259]), 'dist_end_effector': -3.11341444113582, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-2.36334404,  2.85559057]), 'dist_end_effector': -2.87861362537898, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.38997581, -3.21471024]), 'dist_end_effector': -3.5953497500026996, 'collision': False}
+{'pos_end_effector': array([-3.08523988, -3.12966445]), 'dist_end_effector': -3.312483236262599, 'collision': False}
+{'pos_end_effector': array([ 0.61700644, -1.13766697]), 'dist_end_effector': -2.8535957692388587, 'collision': False}
+{'pos_end_effector': array([0.61600027, 0.05048122]), 'dist_end_effector': -2.6164872994271335, 'collision': False}
+{'pos_end_effector': array([0.49973113, 1.87259514]), 'dist_end_effector': -3.1233424843649282, 'collision': False}
+{'pos_end_effector': array([-0.63435785,  2.90906746]), 'dist_end_effector': -3.213666431508043, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([2.32675012, 4.65419317]), 'dist_end_effector': -6.354705393486665, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.0082408 ,  2.27650281]), 'dist_end_effector': -3.02482557447526, 'collision': False}
+{'pos_end_effector': array([-0.75660647,  3.54852448]), 'dist_end_effector': -3.7600602968239962, 'collision': False}
+{'pos_end_effector': array([0.95677367, 2.59028967]), 'dist_end_effector': -3.9309173364672554, 'collision': False}
+{'pos_end_effector': array([ 1.98925076, -0.90025471]), 'dist_end_effector': -4.089569675326769, 'collision': False}
+{'pos_end_effector': array([0.49973113, 1.87259514]), 'dist_end_effector': -3.1233424843649282, 'collision': False}
+{'pos_end_effector': array([4.35665685, 5.72360774]), 'dist_end_effector': -8.55375776052047, 'collision': False}
+{'pos_end_effector': array([ 0.57713015, -0.09587689]), 'dist_end_effector': -2.578912984359958, 'collision': False}
+{'pos_end_effector': array([-0.75660647,  3.54852448]), 'dist_end_effector': -3.7600602968239962, 'collision': False}
+{'pos_end_effector': array([-5.03130649,  2.7427632 ]), 'dist_end_effector': -4.087978599576845, 'collision': False}
+{'pos_end_effector': array([-0.07417769,  2.40565075]), 'dist_end_effector': -3.081549461665133, 'collision': False}
+{'pos_end_effector': array([ 7.19138662, -0.9966282 ]), 'dist_end_effector': -9.245261258210634, 'collision': False}
+{'pos_end_effector': array([-0.51651855,  3.59133511]), 'dist_end_effector': -3.8856666255998062, 'collision': False}
+{'pos_end_effector': array([-5.20335725,  2.32690571]), 'dist_end_effector': -3.9592913335354467, 'collision': False}
+{'pos_end_effector': array([ 1.59426822, -0.40435002]), 'dist_end_effector': -3.616941110379803, 'collision': False}
+{'pos_end_effector': array([-0.02934557,  2.42604622]), 'dist_end_effector': -3.1255686145669075, 'collision': False}
+{'pos_end_effector': array([-0.71685832, -3.00534063]), 'dist_end_effector': -3.267801229148094, 'collision': False}
+{'pos_end_effector': array([-0.75660647,  3.54852448]), 'dist_end_effector': -3.7600602968239962, 'collision': False}
+{'pos_end_effector': array([ 3.12019943, -1.39757584]), 'dist_end_effector': -5.3075098167506845, 'collision': False}
+{'pos_end_effector': array([0.49973113, 1.87259514]), 'dist_end_effector': -3.1233424843649282, 'collision': False}
+{'pos_end_effector': array([ 1.00489711, -0.70944915]), 'dist_end_effector': -3.087511087664897, 'collision': False}
+{'pos_end_effector': array([ 1.80034438, -1.49818915]), 'dist_end_effector': -4.0849954871670615, 'collision': False}
+{'pos_end_effector': array([-0.6703543 , -0.16318498]), 'dist_end_effector': -1.3396219667478353, 'collision': False}
+{'pos_end_effector': array([-0.61663466, -1.37674685]), 'dist_end_effector': -1.9516996606867223, 'collision': False}
+{'pos_end_effector': array([1.21751201, 1.18285448]), 'dist_end_effector': -3.428050210427317, 'collision': False}
+{'pos_end_effector': array([-0.53926656, -0.30588071]), 'dist_end_effector': -1.4924158863143993, 'collision': False}
+{'pos_end_effector': array([0.49973113, 1.87259514]), 'dist_end_effector': -3.1233424843649282, 'collision': False}
+{'pos_end_effector': array([-2.56743755,  1.14474841]), 'dist_end_effector': -1.2776675194080733, 'collision': False}
+{'pos_end_effector': array([0.07306222, 1.00652639]), 'dist_end_effector': -2.3044917774284257, 'collision': False}
+{'pos_end_effector': array([-0.79963826, -0.91317582]), 'dist_end_effector': -1.50823022195387, 'collision': False}
+{'pos_end_effector': array([ 0.95312531, -0.91303588]), 'dist_end_effector': -3.0910489514593884, 'collision': False}
+{'pos_end_effector': array([-0.63435785,  2.90906746]), 'dist_end_effector': -3.213666431508043, 'collision': False}
+{'pos_end_effector': array([-0.01065187,  0.5618602 ]), 'dist_end_effector': -2.0671702521681783, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-2.07324457, -4.72232899]), 'dist_end_effector': -4.7228969756682035, 'collision': False}
+{'pos_end_effector': array([0.3334699 , 0.17948099]), 'dist_end_effector': -2.340362194239935, 'collision': False}
+{'pos_end_effector': array([0.49973113, 1.87259514]), 'dist_end_effector': -3.1233424843649282, 'collision': False}
+{'pos_end_effector': array([-0.83857783,  3.07001844]), 'dist_end_effector': -3.2823641905172707, 'collision': False}
+{'pos_end_effector': array([ 0.09791207, -1.49640247]), 'dist_end_effector': -2.5769081094155912, 'collision': False}
+{'pos_end_effector': array([-0.77336269,  2.71199336]), 'dist_end_effector': -2.9764991300680226, 'collision': False}
+{'pos_end_effector': array([-0.43776466,  3.07925755]), 'dist_end_effector': -3.452883769796749, 'collision': False}
+{'pos_end_effector': array([-0.28172375,  3.33536575]), 'dist_end_effector': -3.7519512160631945, 'collision': False}
+{'pos_end_effector': array([0.83358079, 1.47527039]), 'dist_end_effector': -3.1946209202163725, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([0.26866874, 0.79408512]), 'dist_end_effector': -2.403628308717578, 'collision': False}
+{'pos_end_effector': array([-1.57657644,  1.26573915]), 'dist_end_effector': -1.3346846460761057, 'collision': False}
+{'pos_end_effector': array([-2.36334404,  2.85559057]), 'dist_end_effector': -2.87861362537898, 'collision': False}
+{'pos_end_effector': array([-0.37702483, -3.21781465]), 'dist_end_effector': -3.6039394450088493, 'collision': False}
+{'pos_end_effector': array([-0.36808492, -0.37287999]), 'dist_end_effector': -1.6739732122163724, 'collision': False}
+{'pos_end_effector': array([3.20599515, 1.60491112]), 'dist_end_effector': -5.447763326907882, 'collision': False}
+{'pos_end_effector': array([-1.58739777,  4.32343422]), 'dist_end_effector': -4.343077712670393, 'collision': False}
+{'pos_end_effector': array([-0.5953117 , -0.61762252]), 'dist_end_effector': -1.5344728120132016, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-2.99185871,  0.30620651]), 'dist_end_effector': -1.0380491886904901, 'collision': False}
+{'pos_end_effector': array([0.3334699 , 0.17948099]), 'dist_end_effector': -2.340362194239935, 'collision': False}
+{'pos_end_effector': array([-0.94050953,  2.42483383]), 'dist_end_effector': -2.6461933347569504, 'collision': False}
+{'pos_end_effector': array([ 1.61601397, -0.41905478]), 'dist_end_effector': -3.6402148239772694, 'collision': False}
+{'pos_end_effector': array([-0.94050953,  2.42483383]), 'dist_end_effector': -2.6461933347569504, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-1.53995787,  2.73751603]), 'dist_end_effector': -2.77590215089866, 'collision': False}
+{'pos_end_effector': array([-1.67892528, -1.20415659]), 'dist_end_effector': -1.2462271344285716, 'collision': False}
+{'pos_end_effector': array([ 3.18147433, -1.14313233]), 'dist_end_effector': -5.306074608080589, 'collision': False}
+{'pos_end_effector': array([3.21792213, 0.12322972]), 'dist_end_effector': -5.219377065167433, 'collision': False}
+{'pos_end_effector': array([-0.23723048,  3.76055659]), 'dist_end_effector': -4.153208670086748, 'collision': False}
+{'pos_end_effector': array([ 1.60861294, -1.4510232 ]), 'dist_end_effector': -3.88941585370671, 'collision': False}
+{'pos_end_effector': array([-0.53926656, -0.30588071]), 'dist_end_effector': -1.4924158863143993, 'collision': False}
+{'pos_end_effector': array([0.30824741, 1.95889078]), 'dist_end_effector': -3.0274179043754046, 'collision': False}
+{'pos_end_effector': array([ 1.04216622, -0.95704645]), 'dist_end_effector': -3.1891555694029163, 'collision': False}
+{'pos_end_effector': array([-1.90353862, -3.26250994]), 'dist_end_effector': -3.263935645330886, 'collision': False}
+{'pos_end_effector': array([0.49973113, 1.87259514]), 'dist_end_effector': -3.1233424843649282, 'collision': False}
+{'pos_end_effector': array([-0.01065187,  0.5618602 ]), 'dist_end_effector': -2.0671702521681783, 'collision': False}
+{'pos_end_effector': array([2.58433184, 4.13852126]), 'dist_end_effector': -6.176038917141976, 'collision': False}
+{'pos_end_effector': array([0.07306222, 1.00652639]), 'dist_end_effector': -2.3044917774284257, 'collision': False}
+{'pos_end_effector': array([1.01046611, 0.82543121]), 'dist_end_effector': -3.1215769834325764, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-1.29333848,  2.30254386]), 'dist_end_effector': -2.4085428638130884, 'collision': False}
+{'pos_end_effector': array([-0.37702483, -3.21781465]), 'dist_end_effector': -3.6039394450088493, 'collision': False}
+{'pos_end_effector': array([-1.02953788,  1.23130437]), 'dist_end_effector': -1.567771408096974, 'collision': False}
+{'pos_end_effector': array([ 1.481041  , -1.08961136]), 'dist_end_effector': -3.647588159819608, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.17494918, -0.63915886]), 'dist_end_effector': -1.9337359059012518, 'collision': False}
+{'pos_end_effector': array([1.15316661, 1.18601692]), 'dist_end_effector': -3.3688419127265212, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([ 0.57713015, -0.09587689]), 'dist_end_effector': -2.578912984359958, 'collision': False}
+{'pos_end_effector': array([-0.71348386,  1.55394146]), 'dist_end_effector': -2.017388864511713, 'collision': False}
+{'pos_end_effector': array([-0.9896021 ,  1.23789863]), 'dist_end_effector': -1.5979039206579828, 'collision': False}
+{'pos_end_effector': array([1.63105663, 0.32630486]), 'dist_end_effector': -3.6456888438292516, 'collision': False}
+{'pos_end_effector': array([ 0.56134091, -0.14830383]), 'dist_end_effector': -2.565630776293562, 'collision': False}
+{'pos_end_effector': array([ 1.00489711, -0.70944915]), 'dist_end_effector': -3.087511087664897, 'collision': False}
+{'pos_end_effector': array([0.49973113, 1.87259514]), 'dist_end_effector': -3.1233424843649282, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-1.29333848,  2.30254386]), 'dist_end_effector': -2.4085428638130884, 'collision': False}
+{'pos_end_effector': array([-1.63505265,  3.49650807]), 'dist_end_effector': -3.5155021368768997, 'collision': False}
+{'pos_end_effector': array([0.66514842, 0.3805848 ]), 'dist_end_effector': -2.692185155481956, 'collision': False}
+{'pos_end_effector': array([0.46168249, 1.59588314]), 'dist_end_effector': -2.9337218092294184, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([0.26866874, 0.79408512]), 'dist_end_effector': -2.403628308717578, 'collision': False}
+{'pos_end_effector': array([-0.20222759, -0.58313166]), 'dist_end_effector': -1.8899809946872306, 'collision': False}
+{'pos_end_effector': array([ 0.05869759, -1.36388188]), 'dist_end_effector': -2.4694958049101747, 'collision': False}
+{'pos_end_effector': array([ 1.59426822, -0.40435002]), 'dist_end_effector': -3.616941110379803, 'collision': False}
+{'pos_end_effector': array([-0.03607699,  3.39838275]), 'dist_end_effector': -3.9250476253466355, 'collision': False}
+{'pos_end_effector': array([0.3334699 , 0.17948099]), 'dist_end_effector': -2.340362194239935, 'collision': False}
+{'pos_end_effector': array([-1.58164598,  1.96409712]), 'dist_end_effector': -2.008157762247587, 'collision': False}
+{'pos_end_effector': array([ 1.00489711, -0.70944915]), 'dist_end_effector': -3.087511087664897, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.0461649 ,  2.29849789]), 'dist_end_effector': -3.0167141349140616, 'collision': False}
+{'pos_end_effector': array([-0.34830288, -1.98882585]), 'dist_end_effector': -2.585252718815393, 'collision': False}
+{'pos_end_effector': array([-1.24320887,  3.50364831]), 'dist_end_effector': -3.5844503447230336, 'collision': False}
+{'pos_end_effector': array([ 1.59426822, -0.40435002]), 'dist_end_effector': -3.616941110379803, 'collision': False}
+{'pos_end_effector': array([-1.51014248, -5.31109456]), 'dist_end_effector': -5.333637198803112, 'collision': False}
+{'pos_end_effector': array([-5.20335725,  2.32690571]), 'dist_end_effector': -3.9592913335354467, 'collision': False}
+{'pos_end_effector': array([-1.90353862, -3.26250994]), 'dist_end_effector': -3.263935645330886, 'collision': False}
+{'pos_end_effector': array([-0.9163949 , -1.26922576]), 'dist_end_effector': -1.6688720863375424, 'collision': False}
+{'pos_end_effector': array([-0.83857783,  3.07001844]), 'dist_end_effector': -3.2823641905172707, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([0.22052844, 2.81301443]), 'dist_end_effector': -3.5838243147339672, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.07653279,  2.33026418]), 'dist_end_effector': -3.021565366159907, 'collision': False}
+{'pos_end_effector': array([-1.14170305, -1.6423052 ]), 'dist_end_effector': -1.8530623397359838, 'collision': False}
+{'pos_end_effector': array([-6.12158972, -2.07597328]), 'dist_end_effector': -4.614885356562026, 'collision': False}
+{'pos_end_effector': array([-0.87580183,  0.92558082]), 'dist_end_effector': -1.4562010079450087, 'collision': False}
+{'pos_end_effector': array([-2.56743755,  1.14474841]), 'dist_end_effector': -1.2776675194080733, 'collision': False}
+{'pos_end_effector': array([-5.20335725,  2.32690571]), 'dist_end_effector': -3.9592913335354467, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-3.1191019 , -2.44204453]), 'dist_end_effector': -2.686255857521372, 'collision': False}
+{'pos_end_effector': array([0.83358079, 1.47527039]), 'dist_end_effector': -3.1946209202163725, 'collision': False}
+{'pos_end_effector': array([-0.61663466, -1.37674685]), 'dist_end_effector': -1.9516996606867223, 'collision': False}
+{'pos_end_effector': array([0.49973113, 1.87259514]), 'dist_end_effector': -3.1233424843649282, 'collision': False}
+{'pos_end_effector': array([-0.07453264,  0.92406008]), 'dist_end_effector': -2.1357227321159415, 'collision': False}
+{'pos_end_effector': array([1.15316661, 1.18601692]), 'dist_end_effector': -3.3688419127265212, 'collision': False}
+{'pos_end_effector': array([-1.13327597, -1.65459727]), 'dist_end_effector': -1.8678604562336665, 'collision': False}
+{'pos_end_effector': array([-0.51255087,  1.99046158]), 'dist_end_effector': -2.4848424917293, 'collision': False}
+{'pos_end_effector': array([-0.61663466, -1.37674685]), 'dist_end_effector': -1.9516996606867223, 'collision': False}
+{'pos_end_effector': array([5.22631787, 2.30879546]), 'dist_end_effector': -7.586185240944458, 'collision': False}
+{'pos_end_effector': array([1.36031641, 0.27514839]), 'dist_end_effector': -3.3715623998377198, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.20222759, -0.58313166]), 'dist_end_effector': -1.8899809946872306, 'collision': False}
+{'pos_end_effector': array([-0.37702483, -3.21781465]), 'dist_end_effector': -3.6039394450088493, 'collision': False}
+{'pos_end_effector': array([1.13326466, 0.43005155]), 'dist_end_effector': -3.162639995127878, 'collision': False}
+{'pos_end_effector': array([1.5645566, 0.3976741]), 'dist_end_effector': -3.5866709381919955, 'collision': False}
+{'pos_end_effector': array([ 1.61211744, -2.96858344]), 'dist_end_effector': -4.6754550607057945, 'collision': False}
+{'pos_end_effector': array([3.31504938, 1.28797487]), 'dist_end_effector': -5.468878232223149, 'collision': False}
+{'pos_end_effector': array([0.26866874, 0.79408512]), 'dist_end_effector': -2.403628308717578, 'collision': False}
+{'pos_end_effector': array([-1.18745331,  2.20659249]), 'dist_end_effector': -2.351442646704055, 'collision': False}
+{'pos_end_effector': array([1.09723554, 2.79299203]), 'dist_end_effector': -4.170572203590229, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([0.37372651, 0.01070755]), 'dist_end_effector': -2.3737506623504245, 'collision': False}
+{'pos_end_effector': array([-0.61663466, -1.37674685]), 'dist_end_effector': -1.9516996606867223, 'collision': False}
+{'pos_end_effector': array([0.43067012, 0.79803288]), 'dist_end_effector': -2.558322440504243, 'collision': False}
+{'pos_end_effector': array([0.49973113, 1.87259514]), 'dist_end_effector': -3.1233424843649282, 'collision': False}
+{'pos_end_effector': array([-5.20335725,  2.32690571]), 'dist_end_effector': -3.9592913335354467, 'collision': False}
+{'pos_end_effector': array([ 1.59426822, -0.40435002]), 'dist_end_effector': -3.616941110379803, 'collision': False}
+{'pos_end_effector': array([ 0.57713015, -0.09587689]), 'dist_end_effector': -2.578912984359958, 'collision': False}
+{'pos_end_effector': array([-1.53995787,  2.73751603]), 'dist_end_effector': -2.77590215089866, 'collision': False}
+{'pos_end_effector': array([-0.53926656, -0.30588071]), 'dist_end_effector': -1.4924158863143993, 'collision': False}
+{'pos_end_effector': array([-0.47399619, -0.16304484]), 'dist_end_effector': -1.534689294875924, 'collision': False}
+{'pos_end_effector': array([-0.84602644,  3.35636571]), 'dist_end_effector': -3.5492035419885224, 'collision': False}
+{'pos_end_effector': array([1.15316661, 1.18601692]), 'dist_end_effector': -3.3688419127265212, 'collision': False}
+{'pos_end_effector': array([-1.14170305, -1.6423052 ]), 'dist_end_effector': -1.8530623397359838, 'collision': False}
+{'pos_end_effector': array([-0.38997581, -3.21471024]), 'dist_end_effector': -3.5953497500026996, 'collision': False}
+## Generation 3 
+{'pos_end_effector': array([ 0.05869759, -1.36388188]), 'dist_end_effector': -2.4694958049101747, 'collision': False}
+{'pos_end_effector': array([0.24259709, 0.79038811]), 'dist_end_effector': -2.3778046766498946, 'collision': False}
+{'pos_end_effector': array([-0.53926656, -0.30588071]), 'dist_end_effector': -1.4924158863143993, 'collision': False}
+{'pos_end_effector': array([2.72212102, 1.55362944]), 'dist_end_effector': -4.97113582709816, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-1.57657644,  1.26573915]), 'dist_end_effector': -1.3346846460761057, 'collision': False}
+{'pos_end_effector': array([ 0.73566233, -1.27443834]), 'dist_end_effector': -3.017953187422639, 'collision': False}
+{'pos_end_effector': array([ 2.25298748, -0.44486665]), 'dist_end_effector': -4.27619092255673, 'collision': False}
+{'pos_end_effector': array([ 0.57713015, -0.09587689]), 'dist_end_effector': -2.578912984359958, 'collision': False}
+{'pos_end_effector': array([-1.57657644,  1.26573915]), 'dist_end_effector': -1.3346846460761057, 'collision': False}
+{'pos_end_effector': array([0.07306222, 1.00652639]), 'dist_end_effector': -2.3044917774284257, 'collision': False}
+{'pos_end_effector': array([0.43067012, 0.79803288]), 'dist_end_effector': -2.558322440504243, 'collision': False}
+{'pos_end_effector': array([-1.73086802,  1.7222169 ]), 'dist_end_effector': -1.7431187731239715, 'collision': False}
+{'pos_end_effector': array([-1.67936585, -1.20376496]), 'dist_end_effector': -1.2457352623453521, 'collision': False}
+{'pos_end_effector': array([-0.07453264,  0.92406008]), 'dist_end_effector': -2.1357227321159415, 'collision': False}
+{'pos_end_effector': array([1.71917895, 0.26842144]), 'dist_end_effector': -3.7288526601388314, 'collision': False}
+{'pos_end_effector': array([1.44859335, 3.87088393]), 'dist_end_effector': -5.184258726868338, 'collision': False}
+{'pos_end_effector': array([-0.61663466, -1.37674685]), 'dist_end_effector': -1.9516996606867223, 'collision': False}
+{'pos_end_effector': array([-0.53782506,  1.79203929]), 'dist_end_effector': -2.3128684304797167, 'collision': False}
+{'pos_end_effector': array([ 0.09791207, -1.49640247]), 'dist_end_effector': -2.5769081094155912, 'collision': False}
+{'pos_end_effector': array([0.26866874, 0.79408512]), 'dist_end_effector': -2.403628308717578, 'collision': False}
+{'pos_end_effector': array([-0.3054032 ,  0.34620602]), 'dist_end_effector': -1.7296002234753642, 'collision': False}
+{'pos_end_effector': array([-0.07453264,  0.92406008]), 'dist_end_effector': -2.1357227321159415, 'collision': False}
+{'pos_end_effector': array([0.43067012, 0.79803288]), 'dist_end_effector': -2.558322440504243, 'collision': False}
+{'pos_end_effector': array([0.90685338, 0.21173888]), 'dist_end_effector': -2.9145548410532185, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}
+{'pos_end_effector': array([-0.53782506,  1.79203929]), 'dist_end_effector': -2.3128684304797167, 'collision': False}
+{'pos_end_effector': array([-0.20222759, -0.58313166]), 'dist_end_effector': -1.8899809946872306, 'collision': False}
+{'pos_end_effector': array([-0.12046354,  0.65852551]), 'dist_end_effector': -1.9915604794874553, 'collision': False}
+{'pos_end_effector': array([ 0.05869759, -1.36388188]), 'dist_end_effector': -2.4694958049101747, 'collision': False}
+{'pos_end_effector': array([2.28395343, 1.77823195]), 'dist_end_effector': -4.638358100108974, 'collision': False}
+{'pos_end_effector': array([-1.14170305, -1.6423052 ]), 'dist_end_effector': -1.8530623397359838, 'collision': False}
+{'pos_end_effector': array([-0.36808492, -0.37287999]), 'dist_end_effector': -1.6739732122163724, 'collision': False}
+{'pos_end_effector': array([ 0.04660617, -0.89132189]), 'dist_end_effector': -2.2322749647372087, 'collision': False}
+{'pos_end_effector': array([ 0.03051456, -0.7040299 ]), 'dist_end_effector': -2.14910387995902, 'collision': False}
+{'pos_end_effector': array([ 0.05869759, -1.36388188]), 'dist_end_effector': -2.4694958049101747, 'collision': False}
+{'pos_end_effector': array([-0.79963826, -0.91317582]), 'dist_end_effector': -1.50823022195387, 'collision': False}
+{'pos_end_effector': [0, 0], 'dist_end_effector': -1000000, 'collision': True}

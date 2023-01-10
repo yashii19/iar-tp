@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<fastsim>
+  <display enable="true"/>
+
+  <!-- world -->
+  <map name="worlds/entonnoir2.pbm" size="600"/>
+  <!--robot x="300" y="35" theta="1.5" diameter="10"/ -->
+  <robot x="300" y="35" theta="1.5" diameter="10"/>
+  <!-- illuminated_switch x="300" y="500" color="0" radius="10" on="true"/ -->
+  <goal x="300" y="450" color="0" diameter="10"/>
+
+  <!-- sensors (optionals) -->
+  <!-- laser range="100" angle="-180"/ -->
+  <laser_scanner angle_min="-100" angle_max="100" angle_inc="1" range="3000"/>
+  <radar slices="8" color="0"/>
+
+</fastsim>
